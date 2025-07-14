@@ -1,0 +1,15 @@
+git init
+git status
+git add <file_name>
+git rm --cached <file_name>
+git commit -m "text message"
+git restore <file_name>
+git rm <file_name> 
+git commit -m "removed permanently"
+git branch -M main
+ git remote add origin https://github.com/alphakartik/githubrepo.git
+ git push -u origin main 
+git remote -v 
+git push origin master
+git remote set-url origin https://token 
+Git clone https://github.com/alphakartik/githubrepo.git (in cmd)
