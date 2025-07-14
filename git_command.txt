@@ -13,4 +13,4 @@ git remote -v
 git push origin master
 git remote set-url origin https://token 
 Git clone https://github.com/alphakartik/githubrepo.git (in cmd)
-some new changes
+some new changes.
